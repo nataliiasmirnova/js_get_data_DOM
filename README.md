@@ -1,6 +1,5 @@
 1. Replace `<nataliia_smirnova>` with your Github username in the link
     - [DEMO LINK](https://nataliiasmirnova.github.io/js_get_data_DOM/)
-    - https://github.com/nataliiasmirnova/js_get_data_DOM/tree/develop
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
     - There are no tests for this task so use `npm run lint` command instead of `npm test`
 
